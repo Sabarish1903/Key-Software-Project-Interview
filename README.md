@@ -8,6 +8,12 @@ Entity-Relationship Diagram (ERD): This diagram shows the entities (tables) with
 
 Class Diagram: This diagram represents the object-oriented design of the project, illustrating the classes, their attributes, methods, and the relationships between them. It provides a blueprint for the software's structure and behavior.
 
+File List
+
+Database ERD.png
+
+Class Diagram.png
+
 
 Step 1: Extract the Project Files
 
