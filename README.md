@@ -8,6 +8,8 @@ Entity-Relationship Diagram (ERD): This diagram shows the entities (tables) with
 
 Class Diagram: This diagram represents the object-oriented design of the project, illustrating the classes, their attributes, methods, and the relationships between them. It provides a blueprint for the software's structure and behavior.
 
+Implementation Phase: This is the hands-on development stage where you build a functional application to manage categories, attributes, and products, following the design work completed in earlier phases.
+
 File List
 
 Database ERD.png
@@ -17,26 +19,14 @@ Class Diagram.png
 
 Step 1: Extract the Project Files
 
-First, extract the downloaded ZIP file to a location of your choice on your computer. You can right-click the ZIP file and select "Extract All" or use your preferred extraction tool.
-
 
 Step 2: Open Command Prompt or Terminal
-
-Windows Users: Press Windows Key + R, type cmd and press Enter
-
-Mac Users: Open Spotlight Search (Cmd + Space), type "Terminal" and press Enter
-
-Linux Users: Press Ctrl + Alt + T to open terminal
 
 
 Step 3: Navigate to the Project Folder
 
-Navigate to the extracted project folder: cd path/to/your/extracted/folder/product-management
-
 
 Step 4: Run the Application
-
-start the application with this command: mvnw.cmd spring-boot:run
 
 
 Once started, access the application at:
@@ -76,19 +66,6 @@ Product inventory management system
 Attribute configuration for different product types
 
 Sample data to explore the features
-
-
-Key Features
-
-Dynamic Category Management: Create and manage product categories
-
-Custom Attributes: Define category-specific attributes
-
-Product Catalog: Complete product management with attributes
-
-Database Console: Built-in H2 database management at /h2-console
-
-Responsive UI: Bootstrap-based user interface
 
 
 Access Points
